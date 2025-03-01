@@ -1,0 +1,13 @@
+.\lcd_quoridor.o: GLCD\LCD_quoridor.c
+.\lcd_quoridor.o: GLCD\LCD_quoridor.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\lcd_quoridor.o: GLCD\GLCD.h
+.\lcd_quoridor.o: GLCD\../quoridor/quoridor.h
+.\lcd_quoridor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
